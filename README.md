@@ -1,9 +1,9 @@
 
-# TEXTALCHEMY
+# SMART NOTEPAD
 
 # overview
  
-TextAlchemy is a web-based text manipulation tool designed to provide a wide range of text editing and transformation capabilities. The website offers various features that allow users to perform complex text operations efficiently and conveniently. Here are some key aspects of TextAlchemy:
+Smart Notepad is a web-based text manipulation tool designed to provide a wide range of text editing and transformation capabilities. The website offers various features that allow users to perform complex text operations efficiently and conveniently. Here are some key aspects of this project:
 
 # Features:
  * **Case Conversion:** Convert text to uppercase, lowercase, title case, or sentence case.
